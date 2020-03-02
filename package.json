@@ -1,0 +1,25 @@
+{
+  "name": "@4a/share-error",
+  "version": "0.1.0",
+  "description": "创建可以携带更多信息的Error对象",
+  "main": "ShareError.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gavinning/ShareError.git"
+  },
+  "keywords": [
+    "error",
+    "code-error",
+    "share-error",
+    "code"
+  ],
+  "author": "gavinning",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gavinning/ShareError/issues"
+  },
+  "homepage": "https://github.com/gavinning/ShareError#readme"
+}
